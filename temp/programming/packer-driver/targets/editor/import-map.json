@@ -2,7 +2,7 @@
   "imports": {
     "cce:/internal/x/cc": "./chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js",
     "cce:/internal/x/prerequisite-imports": "./chunks/48/48925ed89f58b0eff72f0ddf69b47c4b5e8f623a.js",
-    "file:///C:/Users/ADMIN/KnifeHitGameCocos/assets/Scripts/Game.ts": "./chunks/c9/c9f96c5cf624d2d4f9a31882a0cc59b585985b08.js"
+    "file:///C:/Users/ADMIN/KnifeHitGameCocos/assets/Scripts/Game.ts": "./chunks/6a/6abf2335be9b30a5fa6ac5e2a912fa129e335713.js"
   },
   "scopes": {
     "./chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js": {
@@ -37,9 +37,9 @@
       "__unresolved_9": "cce:/internal/x/cc-fu/ui"
     },
     "./chunks/48/48925ed89f58b0eff72f0ddf69b47c4b5e8f623a.js": {
-      "__unresolved_0": "./chunks/c9/c9f96c5cf624d2d4f9a31882a0cc59b585985b08.js"
+      "__unresolved_0": "./chunks/6a/6abf2335be9b30a5fa6ac5e2a912fa129e335713.js"
     },
-    "./chunks/c9/c9f96c5cf624d2d4f9a31882a0cc59b585985b08.js": {
+    "./chunks/6a/6abf2335be9b30a5fa6ac5e2a912fa129e335713.js": {
       "cc": "./chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js"
     }
   }

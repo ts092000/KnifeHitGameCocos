@@ -220,7 +220,19 @@
       },
       "timestamp": 1678867338522
     },
-    "c9f96c5cf624d2d4f9a31882a0cc59b585985b08": {
+    "48925ed89f58b0eff72f0ddf69b47c4b5e8f623a": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "6abf2335be9b30a5fa6ac5e2a912fa129e335713"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1678867628114
+    },
+    "6abf2335be9b30a5fa6ac5e2a912fa129e335713": {
       "imports": {
         "cc": {
           "resolved": {
@@ -230,24 +242,12 @@
           "messages": []
         }
       },
-      "timestamp": 1678867338663
-    },
-    "48925ed89f58b0eff72f0ddf69b47c4b5e8f623a": {
-      "imports": {
-        "__unresolved_0": {
-          "resolved": {
-            "type": "chunk",
-            "id": "c9f96c5cf624d2d4f9a31882a0cc59b585985b08"
-          },
-          "messages": []
-        }
-      },
-      "timestamp": 1678867346046
+      "timestamp": 1678867628211
     }
   },
   "entries": {
     "cce:/internal/x/cc": "cee638a986ad8fae09398db255647defcaa6612a",
     "cce:/internal/x/prerequisite-imports": "48925ed89f58b0eff72f0ddf69b47c4b5e8f623a",
-    "file:///C:/Users/ADMIN/KnifeHitGameCocos/assets/Scripts/Game.ts": "c9f96c5cf624d2d4f9a31882a0cc59b585985b08"
+    "file:///C:/Users/ADMIN/KnifeHitGameCocos/assets/Scripts/Game.ts": "6abf2335be9b30a5fa6ac5e2a912fa129e335713"
   }
 }

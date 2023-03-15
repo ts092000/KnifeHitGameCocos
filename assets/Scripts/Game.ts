@@ -29,7 +29,7 @@ export class Game extends Component {
 
         setInterval(() => {
             this.changeSpeedWood();
-        }, 3000)
+        }, 3500)
     }
 
     onDestroy() {

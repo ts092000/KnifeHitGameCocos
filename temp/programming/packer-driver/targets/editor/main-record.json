@@ -619,7 +619,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 15461.04600000009,
+      "mTimestamp": 297523.4180999999,
       "chunkId": "48925ed89f58b0eff72f0ddf69b47c4b5e8f623a",
       "imports": [
         {
@@ -702,10 +702,10 @@
     },
     "file:///C:/Users/ADMIN/KnifeHitGameCocos/assets/Scripts/Game.ts": {
       "mTimestamp": {
-        "mtime": 1678866184869.3342,
+        "mtime": 1678867626559.295,
         "uuid": "d427283e-cc73-463e-a236-6a5677874f8b"
       },
-      "chunkId": "c9f96c5cf624d2d4f9a31882a0cc59b585985b08",
+      "chunkId": "6abf2335be9b30a5fa6ac5e2a912fa129e335713",
       "imports": [
         {
           "value": "cc"

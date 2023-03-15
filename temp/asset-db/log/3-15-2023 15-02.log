@@ -32,3 +32,16 @@
 3-15-2023 15:03:07-debug: refresh db assets success
 3-15-2023 15:03:07-debug: asset-db:worker-effect-data-processing (133ms)
 3-15-2023 15:03:07-debug: asset-db:refresh-all-database (189ms)
+3-15-2023 15:03:47-debug: refresh db internal success
+3-15-2023 15:03:47-debug: asset-db:worker-effect-data-processing (124ms)
+3-15-2023 15:03:47-debug: refresh db assets success
+3-15-2023 15:03:47-debug: asset-db:refresh-all-database (179ms)
+3-15-2023 15:06:57-debug: refresh db internal success
+3-15-2023 15:06:57-debug: refresh db assets success
+3-15-2023 15:06:57-debug: asset-db:worker-effect-data-processing (139ms)
+3-15-2023 15:06:57-debug: asset-db:refresh-all-database (202ms)
+3-15-2023 15:07:07-debug: refresh db internal success
+3-15-2023 15:07:08-debug: %cImport%c: C:\Users\ADMIN\KnifeHitGameCocos\assets\Scripts\Game.tsbackground: #aaff85; color: #000;color: #000;
+3-15-2023 15:07:08-debug: asset-db:worker-effect-data-processing (111ms)
+3-15-2023 15:07:08-debug: refresh db assets success
+3-15-2023 15:07:08-debug: asset-db:refresh-all-database (179ms)
