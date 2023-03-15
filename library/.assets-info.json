@@ -1,0 +1,130 @@
+{
+  "C:\\Users\\ADMIN\\ThrowKnifeGame\\assets\\Scripts.meta": {
+    "time": 1678849972865.6777
+  },
+  "C:\\Users\\ADMIN\\ThrowKnifeGame\\assets\\Scripts": {
+    "time": 1678850057573.1245,
+    "uuid": "a848ed94-f736-4595-8525-34fc4beecaed",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\ThrowKnifeGame\\assets\\Scene.meta": {
+    "time": 1678849981120.3706
+  },
+  "C:\\Users\\ADMIN\\ThrowKnifeGame\\assets\\Scene": {
+    "time": 1678850028632.8054,
+    "uuid": "4a837f60-e231-4a89-a7f5-ab7b2630cd44",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\ThrowKnifeGame\\assets\\resources.meta": {
+    "time": 1678850006236.5269
+  },
+  "C:\\Users\\ADMIN\\ThrowKnifeGame\\assets\\resources": {
+    "time": 1678850004032.3586,
+    "uuid": "49f9cd10-dd94-4b53-8f53-1c4f623f0937",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\ThrowKnifeGame\\assets\\resources\\background.png.meta": {
+    "time": 1678850006449.6165
+  },
+  "C:\\Users\\ADMIN\\ThrowKnifeGame\\assets\\resources\\knife.png.meta": {
+    "time": 1678850006426.4102
+  },
+  "C:\\Users\\ADMIN\\ThrowKnifeGame\\assets\\resources\\Wood.png.meta": {
+    "time": 1678850006440.617
+  },
+  "C:\\Users\\ADMIN\\ThrowKnifeGame\\assets\\resources\\knife.png": {
+    "time": 1678850004045.3562,
+    "uuid": "dbf30ce3-cb1d-4dcb-9c5e-7d7993f9ed68",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\ThrowKnifeGame\\assets\\resources\\Wood.png": {
+    "time": 1678850003995.3528,
+    "uuid": "b1c6b494-7550-48e3-b3ad-ee0d18dac354",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\ThrowKnifeGame\\assets\\resources\\background.png": {
+    "time": 1678850004013.3523,
+    "uuid": "894a51c9-dcf1-496e-9621-9722c3b04003",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\ThrowKnifeGame\\assets\\Scene\\Game.scene.meta": {
+    "time": 1678850028636.8037
+  },
+  "C:\\Users\\ADMIN\\ThrowKnifeGame\\assets\\Scene\\Game.scene": {
+    "time": 1678865457384.5044,
+    "uuid": "f98dba23-dc2f-4333-9121-9d77481b3a90",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\ThrowKnifeGame\\assets\\Scripts\\Game.ts.meta": {
+    "time": 1678850057577.1252
+  },
+  "C:\\Users\\ADMIN\\ThrowKnifeGame\\assets\\Scripts\\Game.ts": {
+    "time": 1678866184869.3342,
+    "uuid": "d427283e-cc73-463e-a236-6a5677874f8b",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\KnifeHitGameCocos\\assets\\resources": {
+    "time": 1678867260012.8098,
+    "uuid": "49f9cd10-dd94-4b53-8f53-1c4f623f0937",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\KnifeHitGameCocos\\assets\\Scene": {
+    "time": 1678867260017.8108,
+    "uuid": "4a837f60-e231-4a89-a7f5-ab7b2630cd44",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\KnifeHitGameCocos\\assets\\Scripts": {
+    "time": 1678867260020.8096,
+    "uuid": "a848ed94-f736-4595-8525-34fc4beecaed",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\KnifeHitGameCocos\\assets\\Scripts\\Game.ts": {
+    "time": 1678866184869.3342,
+    "uuid": "d427283e-cc73-463e-a236-6a5677874f8b",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\KnifeHitGameCocos\\assets\\resources.meta": {
+    "time": 1678850006236.5269
+  },
+  "C:\\Users\\ADMIN\\KnifeHitGameCocos\\assets\\Scene.meta": {
+    "time": 1678849981120.3706
+  },
+  "C:\\Users\\ADMIN\\KnifeHitGameCocos\\assets\\Scripts.meta": {
+    "time": 1678849972865.6777
+  },
+  "C:\\Users\\ADMIN\\KnifeHitGameCocos\\assets\\Scripts\\Game.ts.meta": {
+    "time": 1678850057577.1252
+  },
+  "C:\\Users\\ADMIN\\KnifeHitGameCocos\\assets\\resources\\background.png": {
+    "time": 1678850004013.3523,
+    "uuid": "894a51c9-dcf1-496e-9621-9722c3b04003",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\KnifeHitGameCocos\\assets\\resources\\knife.png": {
+    "time": 1678850004045.3562,
+    "uuid": "dbf30ce3-cb1d-4dcb-9c5e-7d7993f9ed68",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\KnifeHitGameCocos\\assets\\resources\\Wood.png": {
+    "time": 1678850003995.3528,
+    "uuid": "b1c6b494-7550-48e3-b3ad-ee0d18dac354",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\KnifeHitGameCocos\\assets\\Scene\\Game.scene": {
+    "time": 1678865457384.5044,
+    "uuid": "f98dba23-dc2f-4333-9121-9d77481b3a90",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\KnifeHitGameCocos\\assets\\Scene\\Game.scene.meta": {
+    "time": 1678850028636.8037
+  },
+  "C:\\Users\\ADMIN\\KnifeHitGameCocos\\assets\\resources\\knife.png.meta": {
+    "time": 1678850006426.4102
+  },
+  "C:\\Users\\ADMIN\\KnifeHitGameCocos\\assets\\resources\\Wood.png.meta": {
+    "time": 1678850006440.617
+  },
+  "C:\\Users\\ADMIN\\KnifeHitGameCocos\\assets\\resources\\background.png.meta": {
+    "time": 1678850006449.6165
+  }
+}

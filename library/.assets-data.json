@@ -1,0 +1,103 @@
+{
+  "a848ed94-f736-4595-8525-34fc4beecaed": {
+    "url": "db://assets/Scripts",
+    "value": {}
+  },
+  "4a837f60-e231-4a89-a7f5-ab7b2630cd44": {
+    "url": "db://assets/Scene",
+    "value": {}
+  },
+  "49f9cd10-dd94-4b53-8f53-1c4f623f0937": {
+    "url": "db://assets/resources",
+    "value": {}
+  },
+  "894a51c9-dcf1-496e-9621-9722c3b04003": {
+    "url": "db://assets/resources/background.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "dbf30ce3-cb1d-4dcb-9c5e-7d7993f9ed68": {
+    "url": "db://assets/resources/knife.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "b1c6b494-7550-48e3-b3ad-ee0d18dac354": {
+    "url": "db://assets/resources/Wood.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "dbf30ce3-cb1d-4dcb-9c5e-7d7993f9ed68@6c48a": {
+    "url": "db://assets/resources/knife.png@6c48a",
+    "value": {
+      "depends": [
+        "dbf30ce3-cb1d-4dcb-9c5e-7d7993f9ed68"
+      ]
+    }
+  },
+  "b1c6b494-7550-48e3-b3ad-ee0d18dac354@6c48a": {
+    "url": "db://assets/resources/Wood.png@6c48a",
+    "value": {
+      "depends": [
+        "b1c6b494-7550-48e3-b3ad-ee0d18dac354"
+      ]
+    }
+  },
+  "894a51c9-dcf1-496e-9621-9722c3b04003@6c48a": {
+    "url": "db://assets/resources/background.png@6c48a",
+    "value": {
+      "depends": [
+        "894a51c9-dcf1-496e-9621-9722c3b04003"
+      ]
+    }
+  },
+  "dbf30ce3-cb1d-4dcb-9c5e-7d7993f9ed68@f9941": {
+    "url": "db://assets/resources/knife.png@f9941",
+    "value": {
+      "depends": [
+        "dbf30ce3-cb1d-4dcb-9c5e-7d7993f9ed68@6c48a"
+      ]
+    }
+  },
+  "b1c6b494-7550-48e3-b3ad-ee0d18dac354@f9941": {
+    "url": "db://assets/resources/Wood.png@f9941",
+    "value": {
+      "depends": [
+        "b1c6b494-7550-48e3-b3ad-ee0d18dac354@6c48a"
+      ]
+    }
+  },
+  "894a51c9-dcf1-496e-9621-9722c3b04003@f9941": {
+    "url": "db://assets/resources/background.png@f9941",
+    "value": {
+      "depends": [
+        "894a51c9-dcf1-496e-9621-9722c3b04003@6c48a"
+      ]
+    }
+  },
+  "f98dba23-dc2f-4333-9121-9d77481b3a90": {
+    "url": "db://assets/Scene/Game.scene",
+    "value": {
+      "depends": [
+        "f98dba23-dc2f-4333-9121-9d77481b3a90",
+        "894a51c9-dcf1-496e-9621-9722c3b04003@f9941",
+        "dbf30ce3-cb1d-4dcb-9c5e-7d7993f9ed68@f9941",
+        "b1c6b494-7550-48e3-b3ad-ee0d18dac354@f9941"
+      ]
+    }
+  },
+  "d427283e-cc73-463e-a236-6a5677874f8b": {
+    "url": "db://assets/Scripts/Game.ts",
+    "value": {}
+  },
+  "31b846d7-5220-4601-a839-66601dfe7aa9": {
+    "url": "db://assets/Prefab",
+    "value": {}
+  },
+  "cb0e836e-040e-404e-a21e-c9321a3935dc": {
+    "url": "db://assets/Prefab/knife.prefab",
+    "value": {}
+  }
+}

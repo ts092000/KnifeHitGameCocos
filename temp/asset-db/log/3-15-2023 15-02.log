@@ -1,0 +1,34 @@
+3-15-2023 15:02:15-debug: asset-db:worker-init (2157ms)
+3-15-2023 15:02:17-debug: Preimport db internal success
+3-15-2023 15:02:17-debug: %cImport%c: C:\Users\ADMIN\KnifeHitGameCocos\assets\Scenebackground: #aaff85; color: #000;color: #000;
+3-15-2023 15:02:17-debug: %cImport%c: C:\Users\ADMIN\KnifeHitGameCocos\assets\resourcesbackground: #aaff85; color: #000;color: #000;
+3-15-2023 15:02:17-debug: %cImport%c: C:\Users\ADMIN\KnifeHitGameCocos\assets\Scriptsbackground: #aaff85; color: #000;color: #000;
+3-15-2023 15:02:17-debug: %cImport%c: C:\Users\ADMIN\KnifeHitGameCocos\assets\Scripts\Game.tsbackground: #aaff85; color: #000;color: #000;
+3-15-2023 15:02:17-debug: Preimport db assets success
+3-15-2023 15:02:17-debug: asset-db:worker-effect-data-processing (307ms)
+3-15-2023 15:02:23-debug: Set detail map pack:///resolution-detail-map.json: {}
+3-15-2023 15:02:23-debug: Start up the 'internal' database...
+3-15-2023 15:02:24-debug: asset-db:worker-init-script (32ms)
+3-15-2023 15:02:24-debug: Start up the 'assets' database...
+3-15-2023 15:02:24-debug: %cImport%c: C:\Users\ADMIN\KnifeHitGameCocos\assets\Scene\Game.scenebackground: #aaff85; color: #000;color: #000;
+3-15-2023 15:02:24-debug: %cImport%c: C:\Users\ADMIN\KnifeHitGameCocos\assets\resources\Wood.pngbackground: #aaff85; color: #000;color: #000;
+3-15-2023 15:02:24-debug: %cImport%c: C:\Users\ADMIN\KnifeHitGameCocos\assets\resources\knife.pngbackground: #aaff85; color: #000;color: #000;
+3-15-2023 15:02:24-debug: %cImport%c: C:\Users\ADMIN\KnifeHitGameCocos\assets\resources\background.pngbackground: #aaff85; color: #000;color: #000;
+3-15-2023 15:02:24-debug: %cImport%c: C:\Users\ADMIN\KnifeHitGameCocos\assets\resources\knife.png@6c48abackground: #aaff85; color: #000;color: #000;
+3-15-2023 15:02:24-debug: %cImport%c: C:\Users\ADMIN\KnifeHitGameCocos\assets\resources\knife.png@f9941background: #aaff85; color: #000;color: #000;
+3-15-2023 15:02:24-debug: %cImport%c: C:\Users\ADMIN\KnifeHitGameCocos\assets\resources\background.png@6c48abackground: #aaff85; color: #000;color: #000;
+3-15-2023 15:02:24-debug: %cImport%c: C:\Users\ADMIN\KnifeHitGameCocos\assets\resources\Wood.png@6c48abackground: #aaff85; color: #000;color: #000;
+3-15-2023 15:02:24-debug: %cImport%c: C:\Users\ADMIN\KnifeHitGameCocos\assets\resources\background.png@f9941background: #aaff85; color: #000;color: #000;
+3-15-2023 15:02:24-debug: %cImport%c: C:\Users\ADMIN\KnifeHitGameCocos\assets\resources\Wood.png@f9941background: #aaff85; color: #000;color: #000;
+3-15-2023 15:02:24-debug: Asset DB is ready!
+3-15-2023 15:02:24-debug: init worker message success
+3-15-2023 15:02:26-debug: builder:worker-init (1537ms)
+3-15-2023 15:02:28-debug: programming:execute-script (3ms)
+3-15-2023 15:02:59-debug: refresh db internal success
+3-15-2023 15:02:59-debug: refresh db assets success
+3-15-2023 15:02:59-debug: asset-db:worker-effect-data-processing (119ms)
+3-15-2023 15:02:59-debug: asset-db:refresh-all-database (179ms)
+3-15-2023 15:03:07-debug: refresh db internal success
+3-15-2023 15:03:07-debug: refresh db assets success
+3-15-2023 15:03:07-debug: asset-db:worker-effect-data-processing (133ms)
+3-15-2023 15:03:07-debug: asset-db:refresh-all-database (189ms)
